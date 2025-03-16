@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong</h1>
+<h2 align="center">You can also call me Ú
 <h3 align="center">A passionate Software Developer from HCMC, Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
