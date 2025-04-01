@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer from HCMC, Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/unotbeo/" targer="blank">
