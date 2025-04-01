@@ -8,6 +8,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/unotbeo/" targer="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt ="https://www.facebook.com/unotbeo/" heitght ="30" width="40">
+<a href="https://instagram.com/https://www.instagram.com/unotbeo/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/unotbeo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
