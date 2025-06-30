@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duong</h1>
 <h2 align="center">You can also call me Ú
 <h3 align="center">A passionate Software Developer from HCMC, Vietnam</h3>
-<h3 align="center">I’m a Junior Software Developer with a passion for automation and productivity tools. I specialize in building seamless workflows using tools like n8n, Make, and Zapier, combined with custom scripting in JavaScript and Python.
+<h3>I’m a Junior Software Developer with a passion for automation and productivity tools. I specialize in building seamless workflows using tools like n8n, Make, and Zapier, combined with custom scripting in JavaScript and Python.
 
 My goal is to bridge the gap between business operations and technical execution — empowering teams to automate repetitive tasks, integrate APIs, and build scalable internal systems. Currently seeking opportunities in software & automation development roles, where I can grow both technically and strategically.</h3>
 
