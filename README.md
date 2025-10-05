@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Developer from HCMC, Vietnam</h3>
 <h3>  I’m a Software Developer with a passion for automation and productivity tools. I specialize in building seamless workflows using tools like n8n, Make, combined with custom scripting in JavaScript and Python.
 
-  My goal is to bridge the gap between business operations and technical execution — empowering teams to automate repetitive tasks, integrate APIs, and build scalable internal systems. Currently seeking opportunities in software & automation development roles, where I can grow both technically and strategically.</h3>
+My goal is to bridge the gap between business operations and technical execution — empowering teams to automate repetitive tasks, integrate APIs, and build scalable internal systems. Currently seeking opportunities in software & automation development roles, where I can grow both technically and strategically.</h3>
 
-<h3 align="left">📝 You can review my [CV ONLINE](https://duongnvl1512.github.io/CV-Nguyen-Vo-Le-Duong/) here</h3>
+📝 You can review my [CV ONLINE](https://duongnvl1512.github.io/CV-Nguyen-Vo-Le-Duong/) here
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
