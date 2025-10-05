@@ -5,7 +5,7 @@
 
   My goal is to bridge the gap between business operations and technical execution — empowering teams to automate repetitive tasks, integrate APIs, and build scalable internal systems. Currently seeking opportunities in software & automation development roles, where I can grow both technically and strategically.</h3>
 
-<h3 align="left">📝 You can review my [CV ONLINE](https://github.com/duongnvl1512/duongnvl1512.github.io.git) here</h3>
+<h3 align="left">📝 You can review my [CV ONLINE](https://duongnvl1512.github.io/CV-Nguyen-Vo-Le-Duong/) here</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
