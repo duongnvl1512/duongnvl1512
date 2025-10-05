@@ -5,6 +5,8 @@
 
   My goal is to bridge the gap between business operations and technical execution — empowering teams to automate repetitive tasks, integrate APIs, and build scalable internal systems. Currently seeking opportunities in software & automation development roles, where I can grow both technically and strategically.</h3>
 
+<h3 align="left">📝 You can review my [CV ONLINE](https://github.com/duongnvl1512/duongnvl1512.github.io.git) here</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" target="blank">
