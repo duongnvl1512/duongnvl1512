@@ -4,11 +4,14 @@
 <h3>  A growth-oriented Software Developer dedicated to delivering innovative and scalable
 technology solutions. Leveraging a proactive mindset and sharp logical thinking, I aim to
 tackle complex technical challenges to further enhance my problem-solving skills while
-advancing toward a technical leadership role</h3>
+advancing toward a technical leadership role.</h3>
 
+<h3 align="left">Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongnvl1512&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <h3 align="left">My skills:</h3>
@@ -82,11 +85,6 @@ advancing toward a technical leadership role</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongnvl1512&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
