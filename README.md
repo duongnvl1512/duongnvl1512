@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Duong</h1>
 <h2 align="center">You can also call me Ú
-<h3 align="center">A passionate Software Developer from HCMC, Vietnam</h3>
-<h3>  A growth-oriented Software Developer dedicated to delivering innovative and scalable
-technology solutions. Leveraging a proactive mindset and sharp logical thinking, I aim to
-tackle complex technical challenges to further enhance my problem-solving skills while
-advancing toward a technical leadership role.</h3>
+<h3 align="center">🧭 About Me</h3>
+<h3 align="left">I am a growth-oriented Software Developer passionate about building scalable, maintainable, and impactful software solutions.
 
-<h3 align="left">My skills:</h3>
-<h4 align="left">- Programing Language:</h4>
+🧠 Strong logical thinking & problem-solving mindset
+
+⚙️ Enjoy working across Frontend, Backend, and Automation
+
+📈 Continuously improving with the goal of becoming a Technical Leader
+
+I value clean code, system thinking, and long-term maintainability over quick fixes..</h3>
+
+<h3 align="left">🛠️ Technical Skills</h3>
+<h4 align="left">🧠 Programming Languages</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
@@ -26,7 +31,7 @@ advancing toward a technical leadership role.</h3>
   </a>
 </p>
 
-<h4 align="left">- Frontend:</h4>
+<h4 align="left">🎨 Frontend</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
@@ -39,7 +44,7 @@ advancing toward a technical leadership role.</h3>
   </a>
 </p>
 
-<h4 align="left">- Backend:</h4>
+<h4 align="left">🧠 Backend</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
@@ -48,14 +53,14 @@ advancing toward a technical leadership role.</h3>
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
   </a>
 </p>
-<h4 align="left">- Mobile:</h4>
+<h4 align="left">📱 Mobile</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
   </a>
 </p>
 
-<h4 align="left">- Database & Tool:</h4>
+<h4 align="left">🗄️ Databases & Tools</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
@@ -79,18 +84,19 @@ advancing toward a technical leadership role.</h3>
   </a>
 </p>
 
-## 📊 GitHub Summary
+## 📊 GitHub Overview
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duongnvl1512&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duongnvl1512&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/unotbeo/" targer="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt ="https://www.facebook.com/unotbeo/" heitght ="30" width="40">
-<a href="https://instagram.com/https://www.instagram.com/unotbeo/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/unotbeo/" height="30" width="40" /></a>
-</p>
+<h3 align="left">🌐 Connect with Me
+  <p align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%e1%bb%85n-v%c3%b5-l%c3%aa-d%c6%b0%c6%a1ng-2238402a9/" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/unotbeo/" targer="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt ="https://www.facebook.com/unotbeo/" heitght ="30" width="40">
+    <a href="https://instagram.com/https://www.instagram.com/unotbeo/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/unotbeo/" height="30" width="40" /></a>
+  </p>
+</h3>
