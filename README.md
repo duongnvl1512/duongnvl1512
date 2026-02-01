@@ -79,11 +79,11 @@ advancing toward a technical leadership role.</h3>
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duongnvl1512&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duongnvl1512&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duongnvl1512&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
