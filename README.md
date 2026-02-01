@@ -61,10 +61,10 @@ I value clean code, system thinking, and long-term maintainability over quick fi
   <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
   </a>
-</p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  </a>
+</a>
+</p>
 
 <h4 align="left">🗄️ Databases & Tools</h4>
 <p align="center">
