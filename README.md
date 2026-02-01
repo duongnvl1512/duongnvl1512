@@ -11,53 +11,52 @@
 
 I value clean code, system thinking, and long-term maintainability over quick fixes..</h4>
 
-<h3 align="left">🛠️ Technical Skills</h3>
+<h2>🛠️ Technical Skills</h2>
 
 <h4>
-  🧠 Programming Languages
-  <span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
-    <img src="https://skillicons.dev/icons?i=cs" height="36"/>
-    <img src="https://skillicons.dev/icons?i=java" height="36"/>
-    <img src="https://skillicons.dev/icons?i=js" height="36"/>
-    <img src="https://skillicons.dev/icons?i=py" height="36"/>
-    <img src="https://skillicons.dev/icons?i=ts" height="36"/>
-  </span>
+🧠 Programming Languages
+<span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=cs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=java" height="36"/>
+  <img src="https://skillicons.dev/icons?i=js" height="36"/>
+  <img src="https://skillicons.dev/icons?i=py" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="36"/>
+</span>
 </h4>
 
 <h4>
-  🎨 Frontend
-  <span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
-    <img src="https://skillicons.dev/icons?i=html" height="36"/>
-    <img src="https://skillicons.dev/icons?i=css" height="36"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
-  </span>
+🎨 Frontend
+<span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=html" height="36"/>
+  <img src="https://skillicons.dev/icons?i=css" height="36"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36"/>
+</span>
 </h4>
 
 <h4>
-  🧠 Backend
-  <span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
-    <img src="https://skillicons.dev/icons?i=dotnet" height="36"/>
-  </span>
+🧩 Backend
+<span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="36"/>
+</span>
 </h4>
 
 <h4>
-  📱 Mobile
-  <span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
-    <img src="https://skillicons.dev/icons?i=react" height="36"/>
-  </span>
+📱 Mobile
+<span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=react" height="36"/>
+</span>
 </h4>
 
 <h4>
-  🗄️ Databases & Tools
-  <span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36"/>
-    <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
-    <img src="https://skillicons.dev/icons?i=docker" height="36"/>
-    <img src="https://skillicons.dev/icons?i=postman" height="36"/>
-  </span>
+🗄️ Databases & Tools
+<span style="margin-left:12px; display:inline-flex; gap:12px; vertical-align:middle;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="36"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="36"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="36"/>
+</span>
 </h4>
 
 ## 📊 GitHub Overview
