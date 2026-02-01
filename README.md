@@ -79,10 +79,11 @@ advancing toward a technical leadership role.</h3>
   </a>
 </p>
 
-<h3 align="left">📈 GitHub Stats</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duongnvl1512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duongnvl1512&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duongnvl1512&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
