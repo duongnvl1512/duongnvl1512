@@ -76,26 +76,23 @@ I value clean code, system thinking, and long-term maintainability over quick fi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C3%B5-l%C3%AA-d%C6%B0%C6%A1ng-2238402a9/" target="_blank">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      alt="linkedin"
-      height="40"
-      width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="linkedin"
+         width="40"
+         height="40" />
   </a>
 
   <a href="https://www.facebook.com/unotbeo/" target="_blank">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-      alt="facebook"
-      height="40"
-      width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         alt="facebook"
+         width="40"
+         height="40" />
   </a>
 
   <a href="https://www.instagram.com/unotbeo/" target="_blank">
-    <img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-      alt="instagram"
-      height="40"
-      width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         alt="instagram"
+         width="40"
+         height="40" />
   </a>
 </p>
