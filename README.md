@@ -83,8 +83,6 @@ I value clean code, system thinking, and long-term maintainability over quick fi
       width="40" />
   </a>
 
-&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.facebook.com/unotbeo/" target="_blank">
     <img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
@@ -92,8 +90,6 @@ I value clean code, system thinking, and long-term maintainability over quick fi
       height="40"
       width="40" />
   </a>
-
-&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/unotbeo/" target="_blank">
     <img align="center"
